@@ -50,9 +50,9 @@ All projects in this repository are my original work completed as part of VIT co
 
 ## 📧 Contact
 
-**Email:** [your.email@vitstudent.ac.in]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Email:** aarushrahulpatel07@gmail.com
+**College Email:** aarush.25bcy10047@vitbhopal.ac.in
+
 
 ---
 
